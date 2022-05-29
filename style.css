@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin-left: 60px;
+
+}
+.cont span{
+    color: coral;
+    margin-left:  -80px;;
+
+}
+.contact{
+    margin-left: 85%;
+    margin-top: -33px;
+}
+.intro p1{
+    font-size: 30px;
+    color: white;    
+}
+.intro h1{
+    color: white;
+    font-size: 40px;
+} 
+ .intro p2{
+    color: white;
+    font-size: 30px;
+} 
+.more{
+    color: coral;
+    font-size: 30px;
+    margin-top: 10%;
+    margin-left: 20px;
+    
+} 
+.image{
+    margin-left: 63%;
+    margin-top: -480px;
+}
+.intro{
+    margin-top: 10%;
+    margin-left: 20px;
+}  
